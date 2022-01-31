@@ -1,0 +1,5 @@
+# Jupiter Notebook containing the project taks/ brief
+*.ipynb
+
+**/images
+
